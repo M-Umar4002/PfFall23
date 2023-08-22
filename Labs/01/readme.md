@@ -2,7 +2,7 @@
 
 ## 23K-0023
 
-### Class Activity (22.08.2023)
+### Class Activity (22.08.2023) :
 
 My name is Muhammad Umar, I did my matric from Usman Public School and my intermediate from Usman Public College.
 
