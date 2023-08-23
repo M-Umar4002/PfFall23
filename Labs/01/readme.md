@@ -26,6 +26,12 @@ M = Muhammad SAW (A personality that has a huge impact on my life) and U = uniqu
 
 ### Question no 5:
 
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/a13fe5ea-6136-4992-9af1-d1404b7a6215)
+
 ### Question no 6:
 
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/f94a3261-bca0-413b-90c4-851250365743)
+
 ### Question no 7:
+
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/4f79e332-4b2b-47c3-aba3-eb4827f30b2c)
