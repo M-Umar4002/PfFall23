@@ -28,4 +28,4 @@
 
 ### Task # 7:
 
-![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/30c1f860-860b-49d3-9f38-638aacbf51fa)
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/8bf3d124-b204-444a-b54f-1d7d39a01dd5)
