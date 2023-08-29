@@ -21,3 +21,11 @@
 ### Task # 5:
 
 ![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/09078d6b-531a-4306-a466-972815fbf3c3)
+
+### Task # 6:
+
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/4196d5da-8769-4908-a7e7-0ffbe58fac2f)
+
+### Task # 7:
+
+![image](https://github.com/M-Umar4002/PfFall23/assets/134300686/30c1f860-860b-49d3-9f38-638aacbf51fa)
