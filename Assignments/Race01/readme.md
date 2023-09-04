@@ -26,3 +26,19 @@
 ### Problem 5:
 
 ![WhatsApp Image 2023-08-29 at 3 50 59 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/2ce79e13-44ff-4482-89d7-91f169b3d2f3)
+
+### Problem 6:
+
+![WhatsApp Image 2023-09-05 at 4 43 34 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/fbe3c15b-8fbc-467a-b998-2454f51d70ad)
+
+### Problem 8:
+
+![WhatsApp Image 2023-09-05 at 4 41 37 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/269c1551-fe61-4dfd-9945-c5edb4691952)
+
+### Problem 9:
+
+![WhatsApp Image 2023-09-05 at 4 42 31 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/1c24c405-d6f6-4672-ae81-7e747d3c2be8)
+
+### Problem 10:
+
+![WhatsApp Image 2023-09-05 at 4 45 02 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/61bcf2a8-40e6-4d42-b5b2-71987011c9ec)
