@@ -28,15 +28,15 @@
 
 ### Problem 7:
 
-##### Page 1:
+#### Page 1:
 
 ![WhatsApp Image 2023-09-06 at 4 37 38 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/17502fa4-e462-4255-9fd3-734db569eeb4)
 
-##### Page 2:
+#### Page 2:
 
 ![WhatsApp Image 2023-09-06 at 4 38 42 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/292c86e1-c1aa-4739-9fa8-5bb2fd0e5a8a)
 
-##### Page 3:
+#### Page 3:
 
 ![WhatsApp Image 2023-09-06 at 4 40 34 AM](https://github.com/M-Umar4002/PfFall23/assets/134300686/de243770-33a4-4990-8e46-2fe1c422d081)
 
