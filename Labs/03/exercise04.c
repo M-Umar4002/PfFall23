@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+void main() {
     int originalPrice, discountPercentage;
     
     printf("\n== Sale Price Calculating Program ==\n");
