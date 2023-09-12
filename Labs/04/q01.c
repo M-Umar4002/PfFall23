@@ -12,15 +12,18 @@
 
 void main(){
 
-	int n;
-	printf("Enter any positive whole number to print '*' n times:");
+	int n; //to get user's input
+	
+	printf("Enter any positive whole number(n) to print '*' n times : ");
 	scanf("%d", &n);
+	
+	printf("\n");
 
-	int count = 1, j = 1;
+	int count = 1; //counter for moving on nex line
 
 	while(count <= n){
 
-		j = 1;
+		int j = 1; //counter for adding "*"
 		
 		while(j <= count){
       
@@ -30,7 +33,8 @@ void main(){
                 }
 		
 		count = count + 1;
-		printf("\n");
+		printf("\n"); //to move on new line
+		
 	}
 
-}//end main
+} //end main
