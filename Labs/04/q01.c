@@ -1,7 +1,7 @@
 /*
 * Programmer: Muhammad Umar
 * Date: 12/9/2023
-* Description: inaput any number "n" and print the pattern.
+* Description: input any number "n" and print the pattern.
 		if n = 3, output will be:
 		*
 		**
