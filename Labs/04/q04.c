@@ -31,4 +31,4 @@ void main(){
     
     printf("\nSolution 1 : %.2f", x1);
     printf("\nSolution 2 : %.2f\n", x2);
-}
+} // end point
