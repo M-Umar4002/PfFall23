@@ -24,12 +24,12 @@ void main(){
     
     float d, x1, x2; // d for discriminant, x1 for Solution 1 and x2 for solution 2
     
-    // calculating determinant
-    d = sqrt((b * b) - 4 * a * c);
+    // calculating discriminant
+    d = (b * b) - 4 * a * c;
     
     // calculating roots
-    x1 = (- b + d) / (2 * a);
-    x2 = (- b - d) / (2 * a);
+    x1 = (- b + sqrt(d)) / (2 * a);
+    x2 = (- b - sqrt(d)) / (2 * a);
     
     // checking if determinant is >, = , < 0
     if (d > 0) {
