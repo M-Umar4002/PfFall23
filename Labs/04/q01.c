@@ -19,7 +19,7 @@ void main(){
 	
 	printf("\n");
 
-	int count = 1; //counter for moving on nex line
+	int count = 1; //counter for moving on next line
 
 	while(count <= n){
 
