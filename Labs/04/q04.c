@@ -24,11 +24,20 @@ void main(){
     
     float d, x1, x2; // d for discriminant, x1 for Solution 1 and x2 for solution 2
     
+    // calculating determinant
     d = sqrt((b * b) - 4 * a * c);
     
+    // calculating roots
     x1 = (- b + d) / (2 * a);
     x2 = (- b - d) / (2 * a);
     
-    printf("\nSolution 1 : %.2f", x1);
-    printf("\nSolution 2 : %.2f\n", x2);
-} // end point
+    // checking if determinant is >, = , < 0
+    if (d > 0) {
+        printf("\nSolution 1 : %.2f", x1);
+        printf("\nSolution 2 : %.2f\n", x2);
+    } else if (d == 0) {
+        printf("\nSolution : %.2f", x1);
+    } else {
+        printf("\nRoots are imaginary");
+    }
+}
