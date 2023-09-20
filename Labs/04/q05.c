@@ -31,6 +31,8 @@ void main(){
         } else if(m1 == m2){
             if(d1 < d2){
                 printf("First person is older!");
+            } else if (d1 == d2) {
+                printf("Both persons are of same ages!");
             } else {
                 printf("Second person is older!");
             }
