@@ -3,7 +3,7 @@
 * Date: 12/9/2023
 * Description: input any number "n" and print the diamond.
                 if n = 4, output will be:
-		               *  
+		   *  
                   * *
                  *   *
                 *     * 
