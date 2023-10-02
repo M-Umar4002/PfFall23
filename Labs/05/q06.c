@@ -10,7 +10,7 @@ void main() {
     
     int num, bit4, bit7;
     
-    printf("\nEnter 8-bit number in only 0s and 1s : "); //taking user's input
+    printf("\nEnter 8-bit number : "); //taking user's input
     scanf("%d", &num);
     
     // finding bit4 and bit7
