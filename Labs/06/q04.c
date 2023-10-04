@@ -8,13 +8,17 @@
 
 void main(){
 
-	int a, b, i;
+	int a, b;
 
-	printf("Enter two positive whole numbers : ");
+	printf("\nEnter two positive whole numbers : "); //taking user's input
 	scanf("%d %d", &a, &b);
+	
+	printf("\n");
 
-	while(a<=b) {
+    	//making loop for generating required ouput
+	for(a; a<=b; a++) {
 
+        	//to print english representation of the numbers that are less than or equals to 9
 		switch(a){
 			case 0: 
 				printf("ZERO ");
@@ -46,23 +50,14 @@ void main(){
 			case 9: 
 				printf("Nine ");
 				break;
-		}
-		if(a > 9){
-			if(a % 2 == 0){
-				printf("Even ");
-			} else {
-				printf("Odd ");
-			}
-		}
-		a++;
-
-	}
-
-	if(a > 9){
-		if(i % 2 == 0){
-			printf("Even ");
-		} else {
-			printf("Odd ");
+			default:
+			    //to check and print even or odd for the numbers that are greater than 9
+			    if(a % 2 == 0){
+				    printf("Even ");
+    			    } else {
+	    			printf("Odd ");
+		    	    }
 		}
 	}
+	printf("\n");
 } //end main
