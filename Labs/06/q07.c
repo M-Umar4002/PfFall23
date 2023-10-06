@@ -10,7 +10,7 @@ void main(){
     
     int arr[10000], size, i, sum = 0;
     
-    printf("\nEnter array size(total number of elements) for which you have to calculate the sum : "); //taking size as user's input
+    printf("\nEnter array size(total number of elements) : "); //taking size as user's input
     scanf("%d", &size);
     
     printf("\n");
