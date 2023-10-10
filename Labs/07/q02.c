@@ -1,6 +1,6 @@
 /*
 * Programmer: Muhammad Umar
-* Date: 3/10/2023
+* Date: 10/10/2023
 * Description: Rotate the array elements to the left by d positions using only one array.
 */
 
