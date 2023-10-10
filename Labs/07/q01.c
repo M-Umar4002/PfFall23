@@ -8,8 +8,7 @@
 
 void main(){
     
-    int num1, num2;
-    float ans = 0;
+    int num1, num2, ans = 0;
     
     printf("\nEnter the numerator : "); //taking numerator in user's input
     scanf("%d", &num1);
@@ -28,5 +27,5 @@ void main(){
         num1 -= num2; 
     }
     
-    printf("\nAnswer : %0.2f\n", ans);
+    printf("\nAnswer : %d\n", ans);
 } //end main
