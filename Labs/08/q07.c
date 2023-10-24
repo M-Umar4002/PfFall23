@@ -24,7 +24,7 @@ void main(){
     
     int originalPrice, totalVisits;
     
-    printf("\nEnter your total purchase amount (in dollars) : "); //taking origianl pricea as user's input
+    printf("\nEnter your total purchase amount (in dollars) : "); //taking origianl price as user's input
     scanf("%d", &originalPrice);
     
     printf("Enter the number of times you have visited the shop in past : "); //taking total visits of past as user's input
