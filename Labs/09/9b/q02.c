@@ -20,7 +20,7 @@ void main(){
 
     int num1, num2;
 
-    printf("Enter first number : "); //taking first number as user's input
+    printf("\nEnter first number : "); //taking first number as user's input
     scanf("%d", &num1);
 
     printf("Enter second number : "); //taking second number as user's input
