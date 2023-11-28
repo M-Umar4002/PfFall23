@@ -1,5 +1,5 @@
 /*
- * Creator: Fasih Hasan Khan
+ * Creator: Muhammad Umar
  * Date: 15/11/23
  * Description: reverse each word in a sentence while mantaining the order of the words
  */
