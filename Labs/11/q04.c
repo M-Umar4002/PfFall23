@@ -1,5 +1,5 @@
 /*
- * Name: Fasih Hasan Khan
+ * Name: Muhammad Umar
  * Date: 21/11/23
  * Desc: Calculate salary increments of each employee in a struct and display
  */
