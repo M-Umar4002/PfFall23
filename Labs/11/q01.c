@@ -6,7 +6,7 @@
 
 #include <stdio.h>
 
-//declaring as truct of student
+//declaring a struct of student
 typedef struct Student {
     int rollNo;
     char name[30];
