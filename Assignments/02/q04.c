@@ -1,8 +1,8 @@
 /*
- * Creator: Fasih Hasan Khan
- * Date: 23/10/23
- * Desc: finds a path from the start to the end of a maze
- */
+* Pogrammer: Muhammad Umar
+* Date: 23/10/23
+* Description: Finds a path from the start to the end of a maze
+*/
 
 #include <stdio.h>
 
